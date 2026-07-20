@@ -61,3 +61,23 @@ ESP-T1-ES-C9-agendamento-de-consultas-medicas/
 │   └── respostas.md                     # Estratégias de resposta, justificativas e planos de ação
 └── comunicacao/
     └── status_stakeholders.md           # Relatório de status executivo consolidado
+```
+---
+
+## 🤖 Uso Responsável da IA Generativa
+
+A Inteligência Artificial Generativa atuou como **ferramenta de apoio e aceleração** para estruturar a taxonomia de riscos, sintetizar pareceres executivos e formatar os relatórios em Markdown.
+
+*Todas as saídas geradas por IA foram revisadas, validadas e adaptadas considerando as restrições reais de engenharia, arquitetura e negócio do cenário analítico.*
+
+---
+
+## 📚 Fonte e Referência do Material
+
+Este estudo de caso e seus artefatos foram desenvolvidos com base no material didático oficial:
+
+* **Documento:** *Ebook M9-GPSAIAG_ES-GenAI - Material de Estudos - Unidade III: Riscos, Comunicação e Documentação Inteligente*
+* **Curso:** Gerência de Projetos de Software Apoiada por Inteligência Artificial Generativa
+* **Autoria:** Mariana Soller Ramada
+* **Organização:** Sofia Costa Paiva, Arlindo Rodrigues Galvão Filho, Renata Dutra Braga e Taciana Novo Kudo
+* **Instituições Responsáveis:** Centro de Competência EMBRAPII em Tecnologias Imersivas (AKCIT), Centro de Excelência em Inteligência Artificial (CEIQ), Instituto de Informática (INF) e Universidade Federal de Goiás (UFG), em cooperação com FAPEG, SECTI-GO e EMBRAPII.
